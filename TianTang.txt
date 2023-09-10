@@ -1,12 +1,12 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/CloudX-ScriptsWane/UI-library/main/Cloud%20mobile.lua", true))()
- local Window = Library:Create("名字游戏")  
+ local Window = Library:Create("TianTang脚本V1")  
   
  local Tab1 = Window:Tab("功能","rbxassetid://10888331510") 
  local Tab2 = Window:Tab("玩家（新）","rbxassetid://12296135476") 
   
- Tab1:WarningLabel("114514") 
+ Tab1:WarningLabel("721749065") 
   
- Tab1:InfoLabel("114514") 
+ Tab1:InfoLabel("721749065") 
   
  Tab1:Label("标签") 
   
